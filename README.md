@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Flappy Bird
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: niklas.vogel@bluewin.ch /  +41 79 361 44 16
+- ⚡ My hobbies: code, climb, read, snowboard, ski
 
 <!--
 **Nukufel/Nukufel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
