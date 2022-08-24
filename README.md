@@ -5,7 +5,7 @@
 - ⚡ My hobbies: code, climb, read, snowboard, ski
 
 ![Skipedia](http://skipedia.ddns.net/-000000?style=for-the-badge&logo=Skipedia&logoColor=white)]
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 
 <!--
