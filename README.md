@@ -4,7 +4,7 @@
 - 📫 How to reach me: niklas.vogel@bluewin.ch /  +41 79 361 44 16
 - ⚡ My hobbies: code, climb, read, snowboard, ski
 
-![Skipedia](http://skipedia.ddns.net/-000000?style=for-the-badge&logo=Skipedia&logoColor=white)]
+![Skipedia](http://skipedia.ddns.net/-000000?style=for-the-badge&logo=Skipedia&logoColor=white)
 
 
 
