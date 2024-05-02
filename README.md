@@ -1,11 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on: Flappy Bird
-- 🌱 I’m currently learning: Java
-- 📫 How to reach me: niklas.vogel@bluewin.ch /  +41 79 361 44 16
-- ⚡ My hobbies: code, climb, read, snowboard, ski
-
-![Skipedia](http://skipedia.ddns.net/-000000?style=for-the-badge&logo=Skipedia&logoColor=white)
-
+### Hi there
+- How to reach me: niklas.vogel@bluewin.ch /  +41 79 361 44 16
 
 
 <!--
