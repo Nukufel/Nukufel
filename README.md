@@ -1,7 +1,6 @@
 ### Hi there
 -My GitLab https://gitlab.ost.ch/niklas.vogel
-- How to reach me: niklas.vogel@bluewin.ch /  +41 79 361 44 16
-
+- How to reach me: niklas.vogel@bluewin.ch
 
 <!--
 **Nukufel/Nukufel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
